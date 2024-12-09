@@ -133,5 +133,5 @@ Este projeto é um aplicativo móvel da Health Tech desenvolvido com **React Nat
 ## 📧 Contato
 
 - **Nome**: Victor Hugo A. da S. Govedice
-- **MyWebSite**: [seu-email@exemplo.com](https://victorgovedice.vercel.app/)
-- **GitHub**: [Seu GitHub](https://github.com/seu-usuario)
+- **MyWebSite**: [My Web Site](https://victorgovedice.vercel.app/)
+- **GitHub**: [Victor Govedice](https://github.com/VictorGovedice)
